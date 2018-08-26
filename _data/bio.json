@@ -63,6 +63,7 @@
       "name": "Toolsets/OS",
       "level": "",
       "keywords": [
+        "*nix",
         "Ubuntu",
         "Git/GitHub",
         "g++",

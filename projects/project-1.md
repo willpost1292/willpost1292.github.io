@@ -14,9 +14,8 @@ labels:
   - JavaScript
   - HTML
   - CSS
-  
 summary: My partner and I created a web application used to train employees for a restaurant ownership group.
-
+---
 <div class="ui small rounded images">
   <img class="ui image" src="../images/micromouse-robot.png">
   <img class="ui image" src="../images/micromouse-robot-2.jpg">

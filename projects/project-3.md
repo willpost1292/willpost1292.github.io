@@ -13,53 +13,19 @@ labels:
   -Linux
   -Apache
   -Engineering
-summary: I was the programmer for a water monitoring device used at the restaurant 220 Grille.
+  -IoT
+summary: I was programmer for an engineering project that designed a water monitoring device used at the restaurant 220 Grille.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">
 
-Cotton is a horror-esque text-based adventure game I developed using the functions and macros built from The Wizard's Game in [Conrad Barski's Land of Lisp](http://landoflisp.com/). Slightly more interesting and convoluted! (It is not that scary.)
+The Engineers for a sustainable World (ESW), an organization headed at Kapiolani Community college in Oahu, HI, designed and implemented an accurate wireless water monitor for the utility sink in the kitchen of 220 Grille, a restaurant located on KCC's campus. The water monitor is currently used to bring awareness to water consumption so the effectiveness of conservation efforts can be quantified.
 
-To give you a flavor of the game, here is an excerpt from one run:
+The monitor was implemented using a Raspberry Pi, a tiny computer with digital I/O pins and wifi capabilities), and a water flow sensor. The monitor was installed on the end of a faucet in the kitchen of 220 Grille. A script was continuously recording the water used per second. The total water used per day was then calculated and sent to a web server, so that water usage can be monitored online. 
 
-<hr>
 
-<pre>
-You open your eyes, and you are greeted by an unfamiliar ceiling.
-Startled, you get to your feet and quickly scan your surroundings. It's
-dark except for the stream of light coming from a crack on the only boarded
-window in the room. You try to peek through the crack, but you cannot see
-anything. You wonder where you are and who could have possibly brought you here.
+I was in charge of the software development. The majority of the scripts were written in Python, along with some shell scripts to manage updating the website and ensuring the water was always being recorded.
 
-<--------------------help------------------------>
-Enter quit or one of the following commands -
-Weld light look walk pickup inventory help h ?
-<------------------------------------------------>
 
-look
-The room is a picture of decay with only a faded number identifying it as room-4. The bed you were
- lying on is stained with what looks like dried blood. Could it be your blood? No - it is not. The
- only way out of the room aside from the door to the corridor is a window that is boarded shut. It
- looks like it has been like that for decades. There is a door going west from here. You see a candle
- on the floor. You see a match on the floor.
-
-pickup candle
-- you are now carrying the candle -
-
-pickup match
-- you are now carrying the match -
-
-light match candle
-
-The candle is now lit. It illuminates everything in the room.
-
-walk west
-The corridor is lit with the candle. It is so long that you cannot see to the end. You notice that
- there are words written on the wall. There is a door going east from here. There is a way going north
- from here. There is a door going south from here.
-</pre>
-
-<hr>
-
-Source: <a href="https://github.com/jogarces/ics-313-text-game"><i class="large github icon "></i>jogarces/ics-313-text-game</a>
-
+Monitoring site: <a href="http://166.122.10.147/~chris/"></a>
+ESW website:  <a href="eswkcc.wordpress.com"></a>

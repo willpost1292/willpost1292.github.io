@@ -17,7 +17,7 @@ labels:
 summary: I was programmer for an engineering project that designed a water monitoring device used at the restaurant 220 Grille.
 ---
 
-<img class="ui image" src="willpost1292.github.io/images/water-consumption.png">
+<img class="ui image" src="https://willpost1292.github.io/images/water-consumption.png">
 
 The Engineers for a sustainable World (ESW), an organization headed at Kapiolani Community college in Oahu, HI, designed and implemented an accurate wireless water monitor for the utility sink in the kitchen of 220 Grille, a restaurant located on KCC's campus. The water monitor is currently used to bring awareness to water consumption so the effectiveness of conservation efforts can be quantified.
 

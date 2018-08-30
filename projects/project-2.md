@@ -5,7 +5,7 @@ image: images/eyeball.jpg
 title: Daytime Sleepiness and Pupil Diameter
 permalink: projects/pupilometry
 # All dates must be YYYY-MM-DD format!
-date: 2015-12-15
+date: 2018-04-01
 labels:
   - Data Science
   - Python 3

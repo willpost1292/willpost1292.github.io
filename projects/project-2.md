@@ -10,6 +10,8 @@ labels:
   - Data Science
   - Python 3
   - Data Visualization
+  - Matplotlib
+  - NumPy
 summary: A study conducted on investigating collerations between sleepiness and pupil fluctuation.
 ---
 

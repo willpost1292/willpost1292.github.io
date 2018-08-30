@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
+image: images/eyeball.png
 title: Daytime Sleepiness and Pupil Diameter
 permalink: projects/pupilometry
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,8 @@ labels:
 summary: A study conducted on investigating collerations between sleepiness and pupil fluctuation.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
+<img class="ui medium right floated rounded image" src="../images/pupil-varience.png">
+<img class="ui medium right floated rounded image" src="../images/psi.png">
 
 The purpose of this project was to determine if there was a strong correlation between Excessive Daytime Sleepiness (EDS) and the fluctuation of the pupil over time.
 

@@ -12,7 +12,7 @@ labels:
   - Data Visualization
   - Matplotlib
   - NumPy
-summary: A study conducted on investigating collerations between sleepiness and pupil fluctuation.
+summary: A study conducted on investigating correlations between sleepiness and pupil fluctuation.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/pupil-varience.png">

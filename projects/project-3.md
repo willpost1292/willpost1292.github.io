@@ -2,14 +2,18 @@
 layout: project
 type: project
 image: images/cotton-square.png
-title: Cotton
-permalink: projects/cotton
+title: 220 Grille Water Meter
+permalink: projects/watermeter
 # All dates must be YYYY-MM-DD format!
-date: 2014-04-12
+date: 2018-04-11
 labels:
-  - Lisp
-  - GitHub
-summary: A text adventure game I developed for ICS 313.
+  -imbedded systems
+  -python
+  -Raspberry Pi
+  -Linux
+  -Apache
+  -Engineering
+summary: I was the programmer for a water monitoring device used at the restaurant 220 Grille.
 ---
 
 <img class="ui image" src="{{ site.baseurl }}/images/cotton-header.png">

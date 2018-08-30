@@ -2,24 +2,37 @@
 layout: project
 type: project
 image: images/vacay-square.png
-title: Vacay
-permalink: projects/vacay
+title: Daytime Sleepiness and Pupil Diameter
+permalink: projects/pupilometry
 # All dates must be YYYY-MM-DD format!
 date: 2015-12-15
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: A responsive web application for travel planning that my team developed in ICS 415.
+  - Data Science
+  - Python 3
+  - Data Visualization
+summary: A study conducted on investigating collerations between sleepiness and pupil fluctuation.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
 
-Vacay is a web application that I helped create as a team project in ICS 415, Spring 2015. The project helped me learn how to design and implement a responsive web site.
+The purpose of this project was to determine if there was a strong correlation between Excessive Daytime Sleepiness (EDS) and the fluctuation of the pupil over time.
 
-Vacay is implemented using [Meteor](http://meteor.com), a JavaScript application platform. Within two weeks, we created a website that implements several types of reservations including flights, hotels, and car rentals.
+Over 40 participants each had their pupil diameter mesured in a dark room for fifteen minutes using an infared camera at a rate of 60HZ (The first five minutes were disregarded for acclimation). The participants then filled out a standardized written survey known as the Epworth Sleepiness Scale (ESS) to determine which participants were experiencing EDS. The participants where then divided into two groups: "sleepy" and "alert". The dataset for each group was then analyzed using two methods: average varience over time, and a novel method called the Pupil Stability Index (PSI). Both methods found a strong correlation between pupil fluctuation and EDS.
 
-In this project I gained experience with full-stack web application design and associated technologies, including [MongoDB](http://mongodb.com) for database storage, the [Twitter Bootstrap](http://getbootstrap.com/) CSS Framework for the user interface, and Javascript for both client and server-side programming. 
- 
-Source: <a href="https://github.com/theVacay/vacay"><i class="large github icon"></i>theVacay/vacay</a>
+The calculations for the project were completed using the NumPy python library, and the data was visualized using the Matplotlib python library. This project helped my improve my understanding of the Python programming language and data analysis.
+
+main method for calculating P.S.I, highlighting how awsome Python is:
+```python
+def main(sleepy_subj_file, alert_subj_file, test_name, alpha):
+
+    sleepy_PSI_list = [calc_PSI(subj,strip(), alpha) for  subj in open(sleepy_subj_file)]
+    alert_PSI_list = [calc_PSI(subj,strip(), alpha) for  subj in open(alert_subj_file)]
+    
+    write_PSI_file(sleepy_PSI_list, test_name + "_sleepy_psi.txt")
+    write_PSI_file(alert_PSI_list, test_name + "_alert_psi.txt")
+    
+    graph_from_PSIs(sleepy_PSI_list, alert_PSI_list, test_name)
+```
+
+
+

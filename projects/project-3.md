@@ -27,5 +27,5 @@ The monitor was implemented using a Raspberry Pi, a tiny computer with digital I
 I was in charge of the software development. The majority of the scripts were written in Python, along with some shell scripts to manage updating the website and ensuring the water was always being recorded.
 
 
-Monitoring site: <a href="http://166.122.10.147/~chris/"></a>
-ESW website:  <a href="eswkcc.wordpress.com"></a>
+Monitoring site: http://166.122.10.147/~chris/
+ESW website: http://eswkcc.wordpress.com

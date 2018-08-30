@@ -7,13 +7,13 @@ permalink: projects/watermeter
 # All dates must be YYYY-MM-DD format!
 date: 2018-04-11
 labels:
-  -imbedded systems
-  -python
-  -Raspberry Pi
-  -Linux
-  -Apache
-  -Engineering
-  -IoT
+  - imbedded systems
+  - python
+  - Raspberry Pi
+  - Linux
+  - Apache
+  - Engineering
+  - IoT
 summary: I was programmer for an engineering project that designed a water monitoring device used at the restaurant 220 Grille.
 ---
 

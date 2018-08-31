@@ -9,7 +9,8 @@ labels:
   - Computer Science
 ---
 
-<img class="ui medium left floated image" src="../images/a-grade.png">
+<img class="ui medium left floated image" src="../images/a-grade.png"/>
+
 #  The Participation Grade:
 ## How I went from from a High School dropout to a successful ICS College student.
 

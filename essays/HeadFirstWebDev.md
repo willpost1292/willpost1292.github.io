@@ -9,7 +9,7 @@ labels:
   - Learning Experience
 ---
 
-<img src="../images/Diving-Board.jpg">
+<img class = "ui medium left floated image" src="../images/Diving-Board.jpg">
 
 # Head First Web Developement:
 ## How the quickest (and scariest) way to learn something is to dive right in.

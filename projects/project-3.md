@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/faucet.png
+image: images/watersensor.JPG
 title: 220 Grille Water Meter
 permalink: projects/watermeter
 # All dates must be YYYY-MM-DD format!

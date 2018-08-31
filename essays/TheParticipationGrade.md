@@ -17,7 +17,7 @@ labels:
 Growing up, I hated school. Well, I wouldn’t say I hated it, I just chose not to participate. So when I was old enough, I took up the opportunity to dropout of high school. Who would have thought that seven years later, I would be pursuing a B.S in Computer Science?
 
 ## Failure to Launch
-  My lack of school enthusiasm started before I can remember. Even when I was in elementary school, I had straight Ds, because they wouldn’t give out F’s. Middle school was much of the same, with some of my grades being in the teens. By the time I reached high school, I was skipping class to hang out with the wrong crowd and make poor life choices. I ended up a high school dropout with a dead-end job working in a restaurant. 
+  My lack of school enthusiasm started before I can remember. Even when I was in elementary school, I had straight Ds because they wouldn’t give out F’s. Middle school was much of the same, with some of my grades being in the teens. By the time I reached high school, I was skipping class to hang out with the wrong crowd and make poor life choices. I ended up a high school dropout with a dead-end job working in a restaurant. 
 
 ## A New Direction
   Then something amazing happened. See my sister had a much different approach to learning. In fact, she excelled at it. She ended up with her Doctorate in Mathematics, and had a career as a junior professor at UH Manoa on the island of Oahu, HI. She so kindly offered to help me move to Hawaii from my hometown in Massachusetts, so that I could get my degree and turn my life around. I knew that restaurant work was always gonna be available, so I took the plunge, and moved to Honolulu on my twenty first birthday.

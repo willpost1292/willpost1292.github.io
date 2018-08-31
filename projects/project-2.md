@@ -15,8 +15,8 @@ labels:
 summary: A study conducted on investigating correlations between sleepiness and pupil fluctuation.
 ---
 
-<img class="ui medium right floated rounded image" src="../images/pupil-varience.png">
-<img class="ui medium right floated rounded image" src="../images/psi.png">
+<img class="ui medium rounded image" src="../images/pupil-varience.png">
+<img class="ui medium rounded image" src="../images/psi.png">
 
 The purpose of this project was to determine if there was a strong correlation between Excessive Daytime Sleepiness (EDS) and the fluctuation of the pupil over time.
 

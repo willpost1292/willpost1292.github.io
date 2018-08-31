@@ -10,8 +10,8 @@ labels:
 ---
 
 <img class="ui medium left floated image" src="../images/a-grade.png">
-
-## How I went from from a High School dropout to a successful ICS College student
+#  The Participation Grade:
+## How I went from from a High School dropout to a successful ICS College student.
 
 Growing up, I hated school. Well, I wouldn’t say I hated it, I just chose not to participate. So when I was old enough, I took up the opportunity to dropout of high school. Who would have thought that seven years later, I would be pursuing a B.S in Computer Science?
 

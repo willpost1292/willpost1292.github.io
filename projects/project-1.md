@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/hcr_home.png
+image: images/hcr-landing.png
 title: HCR Online Training
 permalink: projects/hcronlinetraining
 # All dates must be YYYY-MM-DD format!

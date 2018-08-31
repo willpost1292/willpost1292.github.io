@@ -17,7 +17,7 @@ labels:
 summary: My partner and I created a web application used to train employees for a restaurant ownership group.
 ---
 <div>
-  <img class="ui image" src="../images/hcr_home.png">
+  <img class="ui image" src="../images/hcr-landing.png">
   <img class="ui image" src="../images/hcr_special.png">
   <img class="ui image" src="../images/beer.png">
   <img class="ui image" src="../images/admin.png">

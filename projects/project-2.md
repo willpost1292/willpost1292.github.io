@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/eye2.jpg
+image: images/eye2.jpeg
 title: Daytime Sleepiness and Pupil Diameter
 permalink: projects/pupilometry
 # All dates must be YYYY-MM-DD format!

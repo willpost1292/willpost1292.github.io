@@ -10,8 +10,8 @@ labels:
 ---
 
 <img class="ui tiny right spaced image" src="../images/Diving-Board.jpg">
-<h1>Head First Web Developement</h1>
-<h3>How the quickest (and scariest) way to learn something is to dive right in.</h3>
+
+##How the quickest (and scariest) way to learn something is to dive right in.
 
   It was the summer of 2018, and I was looking at a mind numbing three months of waiting tables and cruising at the beach. As a computer science major, of course I had a list of technologies to learn and projects to complete, but when school is out and the weather's nice, it’s hard to dive into a 2000+ page book on C++. My productive outlook this summer looked grim until one day, on a whim, I asked  Joe, my restaurant manager, if there was any projects I could work on for the restaurant. Lucky for me, he was had an idea for a web project that would provide online training services for restaurant employees. The project would not only be used by employees of the restaurant I worked at, but all of it's sister restaurants as well (five in total). It was looking like I found a project for the summer.
 

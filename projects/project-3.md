@@ -14,7 +14,7 @@ labels:
   - Apache
   - Engineering
   - IoT
-summary: I was programmer for an engineering project that designed a water monitoring device used at the restaurant 220 Grille.
+summary: I was the programmer for an engineering project that designed a water monitoring device used at the restaurant 220 Grille.
 ---
 
 <img class="ui image" src="https://willpost1292.github.io/images/watersensor.JPG">

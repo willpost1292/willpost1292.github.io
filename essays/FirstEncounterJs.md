@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: JavaScript: A First Encounter
+title: First Impressions with JavaScript
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-31
 labels:

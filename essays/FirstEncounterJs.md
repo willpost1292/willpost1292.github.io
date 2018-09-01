@@ -17,7 +17,7 @@ labels:
 
 ## Background
 
-  I am currently a junior completing my B.S in Computer Science at the University of Hawaii, Manoa. The programming languages we have used in my classes so far have mostly consisted of Java, C, and C++. For my personal projects I mainly write in the Python programming language. Although I have experimented with JavaScript, I still would consider myself a begginer to the language.
+  I am currently a junior completing my B.S in Computer Science at the University of Hawaii, Manoa. The programming languages we have used in my classes so far have mostly consisted of Java, C, and C++. For my personal projects I mainly write in the Python programming language. Although I have experimented with JavaScript, I still would consider myself a beginner to the language.
 
 ## What is JavaScript?
 

@@ -17,7 +17,7 @@ labels:
   forums ask questions follow certain guidelines in order to preserve the overall quality of the site. While Sites such as
   Stack Overflow have their own methods to promote these guidelines, It is the question askers responsibility to ask smart
   questions. This greatly increases the users chance of receiving a useful answer, and ensures that no one's time gets wasted. 
-<br>
+<br/>
 The article “How to ask questions the smart way”, written by Eric Raymond, describes in detail how to ask questions 
 in a smart and appropriate manor. Some highlights from the article include:
 *Make sure to exhaust all available means of answering the question yourself such as making a google search or reading the documentation

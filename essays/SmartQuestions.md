@@ -10,7 +10,7 @@ labels:
   - Learning
 ---
 
-<img class = "ui medium left floated image" src="../images/js.png">
+<img class = "ui medium left floated image" src="../images/question-mark.png">
   Today’s software engineer cannot survive today without the help of online question-and-answer sites. These sites are 
   where millions of developers come together to answer each other’s questions. This not only helps individuals solve problems
   they are struggling with, but also help advance the developer community as a whole. It is crucial that the users of these

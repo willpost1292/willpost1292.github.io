@@ -46,7 +46,7 @@ The question title is not detailed at all. The user is asking help on a homework
 on his/her own. The user also could have easily found the answer with a simple google search. The question was included
 the solution without a description, with the answerer joking that they were refraining from posting advice on how to ask 
 for help.  
-
+## Conclusion
 Public forums for posting and answering questions has been instrumental for the development of a strong software engineering community.
 It is crucial that every new developer learns how to ask smart questions in order to both enrich the developer’s learning process and
 keep public question-and-answer forums clean, helpful, and maintained. 

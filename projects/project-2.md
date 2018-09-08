@@ -37,5 +37,6 @@ def main(sleepy_subj_file, alert_subj_file, test_name, alpha):
     graph_from_PSIs(sleepy_PSI_list, alert_PSI_list, test_name)
 ```
 
+This project taught me how to interpret a large amount of data in a meaningful and efficient way. I also learned how to effectively communicate my work as this research was presented at the Surf Undergraduate Research Fair at Kapiolani Community College. I would be interested in doing more data analysis in the future.
 
 

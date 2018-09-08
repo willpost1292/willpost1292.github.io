@@ -23,7 +23,7 @@ summary: My partner and I created a web application used to train employees for 
   <img class="ui image" src="../images/admin.png">
 </div>
 
-HCR Online Training is a web application used to train new and existing employees that are employed at any of the restaurants owned and operated by the Handcrafted Restaurant Group (HCR), which is comprised of five high volume restaurants. Nearly all  components of the project's web pages are custimizable via an admin page.The project is implemented using  the Django web framework, and is written in Python, HTML, CSS, and JavaSript. The project is hosted on an Appache http server provided by DreamHost. The project's datebase schema is implemented using MySQL.
+HCR Online Training is a web application used to train new and existing employees working for the Handcrafted Restaurant Group (HCR), which is comprised of five high volume restaurants. Nearly all  components of the project's web pages are custimizable via an admin page. The project is deployed using the Django web framework, and is written in Python, HTML, CSS, and JavaSript. The project is hosted on an Apache http server provided by DreamHost. The project's datebase schema is implemented using MySQL.
 
 Under the Django framework paridigm, the project's components are broken down into "apps". The following apps for this project include:
 
@@ -37,5 +37,6 @@ HCR items - A repository for comanpany specific items, such as recipes.
 
 Each app has a corresponding admin and database interface. 
  
-Currently, the project's site and repository is private due to client's request.
+My partner and I learned how to collaberate effectivly on a larger software project that involved months of work. We also submitted a successful buisness proposal. We Learned alot about web developement as this was our first web project. Currently, the project's site and repository is private due to client's request.
+
 

@@ -8,7 +8,7 @@ labels:
   - Web Developement
 ---
 
-<img class = "ui medium left floated image" src="../images/house.jpg">
+<img class = "ui medium right floated image" src="../images/house.jpg">
 
 # Keeping Code Clean
 

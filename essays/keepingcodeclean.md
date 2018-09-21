@@ -40,7 +40,8 @@ with these concepts so everyone can easily understand each other's code. If you 
 standards aren't in place, you know how frustrating it can be to read source code littered with one letter variables and 
 uncommented code. These details must be decided on before development to keep everyone sane.
 
-##
+## Conclusion
+
 Deciding on these standards may seen meticulous. But code dystrophy is a very real and scary thing. When source code needs 
 to be refactored, and it will be, the last thing project members should be worried about is navigating poorly styled and 
 poorly organized code. Keeping strong unified coding standards is vital for a project to be a success. So follow a strong 

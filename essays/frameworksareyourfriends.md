@@ -7,7 +7,7 @@ date: 2018-10-04
 labels:
   - Web Developement
   - Learning Experience
-  -front-end
+  - front-end
 ---
 
 # Front-end Frameworks are your Friends

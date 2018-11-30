@@ -1,14 +1,14 @@
 ---
 layout: essay
 type: essay
-title: First Impressions with JavaScript
+title: Elegant Design: Why Javascript Promotes Healthier Design Patterns.
 # All dates must be YYYY-MM-DD format!
-date: 2018-08-31
+date: 2018-11-29
 labels:
   - Javascript
   - Software
   - Web Developement
-  - Learning Experience
+  - Design Patterns
 ---
 
 <img class = "ui medium left floated image" src="../images/js.png">

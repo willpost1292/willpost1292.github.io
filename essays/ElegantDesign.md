@@ -32,4 +32,4 @@ makes bugs much less likely to appear.
 
 Stateless or near stateless design patterns creates software that is easier to maintain, easier to debug, and easier to test. 
 The growth of JavaScript in the development community has led to a promotion of more elegant, functional development patterns. 
-Maybe they should start teaching JavaScript in our ics 100 classes.
+Maybe they should start teaching JavaScript in our ICS 100 classes.

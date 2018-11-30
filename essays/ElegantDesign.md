@@ -10,6 +10,7 @@ labels:
   - Web Developement
   - Design Patterns
 ---
+ ## Why Javascript promotes healthier design patterns.
 
 <img class = "ui medium left floated image" src="../images/js.png">
 

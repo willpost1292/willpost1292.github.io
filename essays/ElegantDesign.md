@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Elegant Design: Why Javascript Promotes Healthier Design Patterns.
+title: Elegant Design
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-29
 labels:

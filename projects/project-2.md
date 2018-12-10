@@ -2,18 +2,15 @@
 layout: project
 type: project
 image: images/eyeball.jpg
-title: Daytime Sleepiness and Pupil Diameter
-permalink: projects/pupilometry
+title: UHM-Hotfix
+permalink: projects/uhm-hotfix
 # All dates must be YYYY-MM-DD format!
-date: 2018-04-01
+date: 2018-12-09
 labels:
-  - Data Science
-  - Python 3
-  - Data Visualization
-  - Matplotlib
-  - NumPy
-summary: A study conducted on investigating correlations between sleepiness and pupil fluctuation.
----
+  - Web Application
+  - Meteor Web Framework
+  - React Library
+summary: A web application that allows students to report issues found on campus.
 
 <img class="ui image" src="../images/pupil-varience.png">
 <img class="ui image" src="../images/psi.png">

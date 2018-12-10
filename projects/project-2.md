@@ -11,6 +11,7 @@ labels:
   - Meteor Web Framework
   - React Library
 summary: A web application that allows students to report issues found on campus.
+---
 
 <img class="ui image" src="../images/pupil-varience.png">
 <img class="ui image" src="../images/psi.png">

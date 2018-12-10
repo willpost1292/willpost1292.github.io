@@ -29,10 +29,11 @@ summary: A web application that allows students to report issues found on campus
 
 
 # UHM Hotfix
+UHM Hotfix is a web application build for the students of University of Hawaii Manoa to report issues found around campus so 
+students can contribute in improving their campus
 <a href="https://uhm-hotfix.meteorapp.com"> The Site </a> <br/>
 <a href="https://uhm-hotfix.github.io"> Github IO Project Site </a> <br/>
-UHM Hotfix is a web application build for the students of University of Hawaii Manoa to report issues found around campus so 
-students can contribute in improving their campus.
+
 
 # Technologies Used 
 UHM Hotfix is Build with Node.JS, the Meteor framework, the React Library, and MongoDB. 

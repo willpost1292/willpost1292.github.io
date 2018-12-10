@@ -12,6 +12,8 @@ labels:
   - React Library
 summary: A web application that allows students to report issues found on campus.
 ---
+
+<br/>
 <kbd>
 <img class="ui image" src="../images/hotfix-landing.png">
 </kbd>

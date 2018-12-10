@@ -26,6 +26,8 @@ summary: A web application that allows students to report issues found on campus
 
 
 # UHM Hotfix
+<a href="https://uhm-hotfix.meteorapp.com"> The Site </a>
+<a href="https://uhm-hotfix.github.io"> Github IO Project Site </a>
 UHM Hotfix is a web application build for the students of University of Hawaii Manoa to report issues found around campus so 
 students can contribute in improving their campus.
 

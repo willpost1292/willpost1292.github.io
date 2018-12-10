@@ -13,8 +13,10 @@ labels:
 summary: A web application that allows students to report issues found on campus.
 ---
 
-<img class="ui image" src="../images/pupil-varience.png">
-<img class="ui image" src="../images/psi.png">
+<img class="ui image" src="../images/hotfix-landing.png">
+<img class="ui image" src="../images/report-issue.png">
+<img class="ui image" src="../images/issue-feed.png">
+
 
 # UHM Hotfix
 UHM Hotfix is a web application build for the students of University of Hawaii Manoa to report issues found around campus so 

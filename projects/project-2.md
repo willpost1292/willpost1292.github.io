@@ -15,19 +15,22 @@ summary: A web application that allows students to report issues found on campus
 <kbd>
 <img class="ui image" src="../images/hotfix-landing.png">
 </kbd>
+<br/>
 
 <kbd>
 <img class="ui image" src="../images/report-issue.png">
 </kbd>
+<br/>
 
 <kbd>
 <img class="ui image" src="../images/issue-feed.png">
 </kbd>
+<br/>
 
 
 # UHM Hotfix
-<a href="https://uhm-hotfix.meteorapp.com"> The Site </a>
-<a href="https://uhm-hotfix.github.io"> Github IO Project Site </a>
+<a href="https://uhm-hotfix.meteorapp.com"> The Site </a> <br/>
+<a href="https://uhm-hotfix.github.io"> Github IO Project Site </a> <br/>
 UHM Hotfix is a web application build for the students of University of Hawaii Manoa to report issues found around campus so 
 students can contribute in improving their campus.
 

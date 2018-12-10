@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/eyeball.jpg
+image: images/hotfix-window.png
 title: UHM Hotfix
 permalink: projects/uhm-hotfix
 # All dates must be YYYY-MM-DD format!
